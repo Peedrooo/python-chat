@@ -4,7 +4,7 @@ from time import sleep
 
 class Server():
 
-    def __init__(self, host = '192.168.1.14', port = 8080, qnt_users = 10):
+    def __init__(self, host = 'localhost', port = 8080, qnt_users = 10):
         self.host = host
         self.port = port
         self.qnt_users = qnt_users

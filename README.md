@@ -1,8 +1,4 @@
 # Chat-On 🐍 : A Python-Based Chat Room
-![](https://img.shields.io/apm/l/vim-mode?style=plastic)
-![](https://img.shields.io/pypi/pyversions/Django?style=plastic)
-![](https://img.shields.io/github/last-commit/IamLucif3r/Chat-On)
-![](https://img.shields.io/github/commit-activity/w/IamLucif3r/Chat-On?style=plastic)
 
 
 This is an advanced Python-based Secure Chat room. The project is entirely based on the Socket Progamming; done using Python. A server is set to the listening mode, with a specific IP Address and Port number (that can be edited in the script) and clients are made to connect to the server, after which they are promopted to enter a nickname. The messages are then broadcasted to all the clients present. 

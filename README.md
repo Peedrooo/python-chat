@@ -1,4 +1,4 @@
-# Chat-On 🐍 : A Python-Based Chat Room
+# Python Chat 🐍 : A Python-Based Chat Room
 
 
 This is an advanced Python-based Secure Chat room. The project is entirely based on the Socket Progamming; done using Python. A server is set to the listening mode, with a specific IP Address and Port number (that can be edited in the script) and clients are made to connect to the server, after which they are promopted to enter a nickname. The messages are then broadcasted to all the clients present. 

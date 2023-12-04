@@ -29,14 +29,4 @@ Python main_client.py
 <br>
 3. Now Enter a nickname and start your chatting. 
 
-<hr>
-
-## Demo-Video 📹
-<br>
-This is a demo video of the Working of this project.
-<br><br>
-
-![](https://github.com/IamLucif3r/Chat-On/blob/main/assets/2021-05-22-15-10-08.gif)
-
-<hr>
 
